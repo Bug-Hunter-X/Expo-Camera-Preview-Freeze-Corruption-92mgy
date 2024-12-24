@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API and the camera preview freezes or becomes unresponsive after a certain period of time, or after multiple photo captures. The preview may also show corrupted frames, or fail to display any image at all.  This is particularly noticeable on lower-end devices or when the app is under stress.
